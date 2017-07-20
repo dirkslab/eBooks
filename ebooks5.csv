@@ -1,8 +1,8 @@
 Category;Title;Format;URL
-Azure;Introducing_Windows_Azure™_for_IT_Professionals;PDF ;http://ligman.me/1IW1oab
-Azure;Microsoft_Azure_Essentials_Azure_Automation;PDF ;http://ligman.me/1H4VXHT
-Azure;Microsoft_Azure_Essentials_Azure_Machine_Learning;PDF ;http://ligman.me/1NDTZR4
-Azure;Microsoft_Azure_Essentials_Fundamentals_of_Azure;PDF ;http://ligman.me/1JIhgjA
+Azure;Introducing_Windows_Azure™_for_IT_Professionals;PDF;http://ligman.me/1IW1oab
+Azure;Microsoft_Azure_Essentials_Azure_Automation;PDF;http://ligman.me/1H4VXHT
+Azure;Microsoft_Azure_Essentials_Azure_Machine_Learning;PDF;http://ligman.me/1NDTZR4
+Azure;Microsoft_Azure_Essentials_Fundamentals_of_Azure;PDF;http://ligman.me/1JIhgjA
 Azure;Microsoft_Azure_Essentials_Fundamentals_of_Azure_Second_Edition;PDF;http://ligman.me/2sUanwC
 Azure;Microsoft_Azure_Essentials_Fundamentals_of_Azure_Second_Edition_Mobile;PDF;http://ligman.me/2twPBSD
 Azure;Microsoft_Azure_Essentials_Migrating_SQL_Server_Databases_to_Azure_–_Mobile;PDF;http://ligman.me/2tE7q0i
@@ -10,24 +10,24 @@ Azure;Microsoft_Azure_Essentials_Migrating_SQL_Server_Databases_to_Azure_8.5X11;
 Azure;Microsoft_Azure_ExpressRoute_Guide;PDF;http://ligman.me/2tJ1pj4
 Azure;Overview_of_Azure_Active_Directory;DOC;http://ligman.me/1G2oDNG
 Azure;Rapid_Deployment_Guide_For_Azure_Rights_Management;PDF;http://ligman.me/2u2KdXT
-Azure;Rethinking_Enterprise_Storage_A_Hybrid_Cloud_Model;PDF ;http://ligman.me/1IW1s9S
+Azure;Rethinking_Enterprise_Storage_A_Hybrid_Cloud_Model;PDF;http://ligman.me/1IW1s9S
 BizTalk;BizTalk_Server_2016_Licensing_Datasheet;PDF;http://ligman.me/2tEn8Zy
 BizTalk;BizTalk_Server_2016_Management_Pack_Guide;DOC;http://ligman.me/2tEbPAp
-Cloud;Enterprise_Cloud_Strategy;PDF ;http://ligman.me/2u0WD2F
+Cloud;Enterprise_Cloud_Strategy;PDF;http://ligman.me/2u0WD2F
 Cloud;Enterprise_Cloud_Strategy_–_Mobile;PDF;http://ligman.me/2t2Ghm1
 Developer;.NET_Microservices_Architecture_for_Containerized_.NET_Applications;PDF;http://ligman.me/2sLiBTE
 Developer;.NET_Technology_Guidance_for_Business_Applications;PDF;http://ligman.me/1gfeQ27
-Developer;Building_Cloud_Apps_with_Microsoft_Azure™_Best_practices_for_DevOps_data_storage_high_availability_and_more;PDF ;http://ligman.me/1KBM8DL
+Developer;Building_Cloud_Apps_with_Microsoft_Azure™_Best_practices_for_DevOps_data_storage_high_availability_and_more;PDF;http://ligman.me/1KBM8DL
 Developer;Containerized_Docker_Application_Lifecycle_with_Microsoft_Platform_and_Tools;PDF;http://ligman.me/2v7M0bp
-Developer;Creating_Mobile_Apps_with_Xamarin.Forms_Preview_Edition_2;PDF ;http://ligman.me/1dDcwQC
-Developer;Creating_Mobile_Apps_with_Xamarin.Forms_Cross-platform_C#_programming_for_iOS_Android_and_Windows;PDF ;http://ligman.me/2u1190V
-Developer;Managing_Agile_Open-Source_Software_Projects_with_Microsoft_Visual_Studio_Online;PDF ;http://ligman.me/1NErkvl
-Developer;Microsoft_Azure_Essentials_Azure_Web_Apps_for_Developers;PDF ;http://ligman.me/1epZeHO
+Developer;Creating_Mobile_Apps_with_Xamarin.Forms_Preview_Edition_2;PDF;http://ligman.me/1dDcwQC
+Developer;Creating_Mobile_Apps_with_Xamarin.Forms_Cross-platform_C#_programming_for_iOS_Android_and_Windows;PDF;http://ligman.me/2u1190V
+Developer;Managing_Agile_Open-Source_Software_Projects_with_Microsoft_Visual_Studio_Online;PDF;http://ligman.me/1NErkvl
+Developer;Microsoft_Azure_Essentials_Azure_Web_Apps_for_Developers;PDF;http://ligman.me/1epZeHO
 Developer;Microsoft_Platform_and_Tools_for_Mobile_App_Development;PDF;http://ligman.me/2t2WqaR
 Developer;Microsoft_Platform_and_Tools_for_Mobile_App_Development_–_Mobile;PDF;http://ligman.me/2sUA9kk
-Developer;Moving_to_Microsoft®_Visual_Studio®_2010;PDF ;http://ligman.me/1JITgwM
-Developer;Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript;PDF ;http://ligman.me/1LN5APL
-Developer;Programming_Windows_Store_Apps_with_HTML_CSS_and_JavaScript_Second_Edition;PDF ;http://ligman.me/1RWzfoe
+Developer;Moving_to_Microsoft®_Visual_Studio®_2010;PDF;http://ligman.me/1JITgwM
+Developer;Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript;PDF;http://ligman.me/1LN5APL
+Developer;Programming_Windows_Store_Apps_with_HTML_CSS_and_JavaScript_Second_Edition;PDF;http://ligman.me/1RWzfoe
 Developer;Programming_Windows®_Phone_7_(Special_Excerpt_2);PDF;http://ligman.me/1KyWLZv
 Developer;Team_Foundation_Server_to_Visual_Studio_Team_Services_Migration_Guide;PDF;http://ligman.me/2tEKIoU
 Dynamics;5_cool_things_you_can_do_with_CRM_for_tablets;PDF;http://ligman.me/2uGZkV1
@@ -117,12 +117,12 @@ Office;OneNote_2013_Keyboard_Shortcuts;PDF;http://ligman.me/1n49kzj
 Office;OneNote_Online_Keyboard_Shortcuts;PDF;http://ligman.me/1qZlFVR
 Office;Outlook_2013_Keyboard_Shortcuts;PDF;http://ligman.me/TWa2Dg
 Office;Outlook_Web_App_Keyboard_Shortcuts;PDF;http://ligman.me/1xzdEtT
-Office;Own_Your_Future_Update_Your_Skills_with_Resources_and_Career_Ideas_from_Microsoft®;PDF ;http://ligman.me/1Cg5iOv
+Office;Own_Your_Future_Update_Your_Skills_with_Resources_and_Career_Ideas_from_Microsoft®;PDF;http://ligman.me/1Cg5iOv
 Office;PowerPoint_Online_Keyboard_Shortcuts;PDF;http://ligman.me/1onU8Ld
 Office;Project_2013_Keyboard_Shortcuts;PDF;http://ligman.me/1vM9mwt
 Office;Publisher_2013_Keyboard_Shortcuts;PDF;http://ligman.me/1rB8nl1
-Office;Security_and_Privacy_For_Microsoft_Office_2010_Users;PDF ;http://ligman.me/1JDjqUt
-Office;Security_Incident_Management_in_Microsoft_Office_365;PDF ;http://ligman.me/2tYk9gX
+Office;Security_and_Privacy_For_Microsoft_Office_2010_Users;PDF;http://ligman.me/1JDjqUt
+Office;Security_Incident_Management_in_Microsoft_Office_365;PDF;http://ligman.me/2tYk9gX
 Office;Security_Incident_Management_in_Microsoft_Office_365;PDF;http://ligman.me/2tYk9gX
 Office;SharePoint_Online_Dedicated_&_OneDrive_for_Business_Dedicated_vNext_Service_Release;PDF;http://ligman.me/2sVrsGy
 Office;Skype_for_Business_User_Tips_&_Tricks_for_Anyone;PDF;http://ligman.me/1M7Xr5v
@@ -176,14 +176,14 @@ SQL Server;Deeper_insights_across_data_with_SQL_Server_2016_–_Technical_White_Pa
 SQL Server;Deploying_SQL_Server_2016_PowerPivot_and_Power_View_in_a_Multi-Tier_SharePoint_2016_Farm;DOC;http://ligman.me/2u7MT7t
 SQL Server;Deploying_SQL_Server_2016_PowerPivot_and_Power_View_in_SharePoint_2016;DOC;http://ligman.me/2u89lNQ
 SQL Server;Guide_to_Migrating_from_Oracle_to_SQL_Server_2014_and_Azure_SQL_Database;PDF;http://ligman.me/1ReR3Qq
-SQL Server;Introducing_Microsoft_Azure™_HDInsight™;PDF ;http://ligman.me/1RWzIGZ
+SQL Server;Introducing_Microsoft_Azure™_HDInsight™;PDF;http://ligman.me/1RWzIGZ
 SQL Server;Introducing_Microsoft_Data_Warehouse_Fast_Track_for_SQL_Server_2016;PDF;http://ligman.me/2u2j5sf
-SQL Server;Introducing_Microsoft_SQL_Server_2012;PDF ;http://ligman.me/1gfab07
-SQL Server;Introducing_Microsoft_SQL_Server_2014;PDF ;http://ligman.me/1C7dU9J
-SQL Server;Introducing_Microsoft_SQL_Server_2016_Mission-Critical_Applications_Deeper_Insights_Hyperscale_Cloud_Preview_2;PDF ;http://ligman.me/2u7ml6r
+SQL Server;Introducing_Microsoft_SQL_Server_2012;PDF;http://ligman.me/1gfab07
+SQL Server;Introducing_Microsoft_SQL_Server_2014;PDF;http://ligman.me/1C7dU9J
+SQL Server;Introducing_Microsoft_SQL_Server_2016_Mission-Critical_Applications_Deeper_Insights_Hyperscale_Cloud_Preview_2;PDF;http://ligman.me/2u7ml6r
 SQL Server;Introducing_Microsoft_SQL_Server_2016_Mission-Critical_Applications_Deeper_Insights_Hyperscale_Cloud_Preview_2_–_Mobile;PDF;http://ligman.me/2t2o340
 SQL Server;Introducing_Microsoft_Technologies_for_Data_Storage_Movement_and_Transformation;DOC;http://ligman.me/2txRCxI
-SQL Server;Introducing_Microsoft®_SQL_Server®_2008_R2;PDF ;http://ligman.me/1KyNJvs
+SQL Server;Introducing_Microsoft®_SQL_Server®_2008_R2;PDF;http://ligman.me/1KyNJvs
 SQL Server;Microsoft_SharePoint_Server_2016_Reviewer’s_Guide;PDF;http://ligman.me/29pcQFA
 SQL Server;Microsoft_SQL_Server_2012_Tutorials_Analysis_Services_–_Data_Mining_Step-by-Step;PDF;http://ligman.me/N1J8A8
 SQL Server;Microsoft_SQL_Server_2012_Tutorials_Analysis_Services_–_Multidimensional_Modeling_Step-by-Step;PDF;http://ligman.me/N1JfvI
@@ -203,51 +203,51 @@ Surface;Surface_Book_User_Guide;PDF;http://ligman.me/29i2CEe
 Surface;Surface_Pro_4_User_Guide;PDF;http://ligman.me/29hofVk
 System Center;Guide_to_Microsoft_System_Center_Management_Pack_for_SQL_Server_2016_Reporting_Services_(Native_Mode);DOC;http://ligman.me/2sVrwWU
 System Center;Guide_to_System_Center_Management_Pack_for_Windows_Print_Server_2016;DOC;http://ligman.me/2u2uvvZ
-System Center;Introducing_Microsoft_System_Center_2012_R2;PDF ;http://ligman.me/1dD6S0J
-System Center;Microsoft_System_Center_Building_a_Virtualized_Network_Solution_Second_Edition;PDF ;http://ligman.me/2sUch05
-System Center;Microsoft_System_Center_Data_Protection_for_the_Hybrid_Cloud;PDF ;http://ligman.me/1JDrhBp
-System Center;Microsoft_System_Center_Deploying_Hyper-V_with_Software-Defined_Storage_&_Networking;PDF ;http://ligman.me/1C7okGv
-System Center;Microsoft_System_Center_Extending_Operations_Manager_Reporting;PDF ;http://ligman.me/1KBVfnS
-System Center;Microsoft_System_Center_Introduction_to_Microsoft_Automation_Solutions;PDF ;http://ligman.me/1IzHZA1
-System Center;Microsoft_System_Center_Operations_Manager_Field_Experience;PDF ;http://ligman.me/1GUUqSD
-System Center;Microsoft_System_Center_Software_Update_Management_Field_Experience;PDF ;http://ligman.me/1CQXNbj
-System Center;Microsoft_System_Center_Building_a_Virtualized_Network_Solution;PDF ;http://ligman.me/1GUOZ6b
-System Center;Microsoft_System_Center_Cloud_Management_with_App_Controller;PDF ;http://ligman.me/1GUP0qL
-System Center;Microsoft_System_Center_Configuration_Manager_Field_Experience;PDF ;http://ligman.me/1KBMN8a
-System Center;Microsoft_System_Center_Designing_Orchestrator_Runbooks;PDF ;http://ligman.me/1f9cKQZ
-System Center;Microsoft_System_Center_Integrated_Cloud_Platform;PDF ;http://ligman.me/1gfaIzh
-System Center;Microsoft_System_Center_Network_Virtualization_and_Cloud_Computing;PDF ;http://ligman.me/1JIF6vB
-System Center;Microsoft_System_Center_Optimizing_Service_Manager;PDF ;http://ligman.me/1M00Lzu
-System Center;Microsoft_System_Center_Troubleshooting_Configuration_Manager;PDF ;http://ligman.me/1M00v3u
+System Center;Introducing_Microsoft_System_Center_2012_R2;PDF;http://ligman.me/1dD6S0J
+System Center;Microsoft_System_Center_Building_a_Virtualized_Network_Solution_Second_Edition;PDF;http://ligman.me/2sUch05
+System Center;Microsoft_System_Center_Data_Protection_for_the_Hybrid_Cloud;PDF;http://ligman.me/1JDrhBp
+System Center;Microsoft_System_Center_Deploying_Hyper-V_with_Software-Defined_Storage_&_Networking;PDF;http://ligman.me/1C7okGv
+System Center;Microsoft_System_Center_Extending_Operations_Manager_Reporting;PDF;http://ligman.me/1KBVfnS
+System Center;Microsoft_System_Center_Introduction_to_Microsoft_Automation_Solutions;PDF;http://ligman.me/1IzHZA1
+System Center;Microsoft_System_Center_Operations_Manager_Field_Experience;PDF;http://ligman.me/1GUUqSD
+System Center;Microsoft_System_Center_Software_Update_Management_Field_Experience;PDF;http://ligman.me/1CQXNbj
+System Center;Microsoft_System_Center_Building_a_Virtualized_Network_Solution;PDF;http://ligman.me/1GUOZ6b
+System Center;Microsoft_System_Center_Cloud_Management_with_App_Controller;PDF;http://ligman.me/1GUP0qL
+System Center;Microsoft_System_Center_Configuration_Manager_Field_Experience;PDF;http://ligman.me/1KBMN8a
+System Center;Microsoft_System_Center_Designing_Orchestrator_Runbooks;PDF;http://ligman.me/1f9cKQZ
+System Center;Microsoft_System_Center_Integrated_Cloud_Platform;PDF;http://ligman.me/1gfaIzh
+System Center;Microsoft_System_Center_Network_Virtualization_and_Cloud_Computing;PDF;http://ligman.me/1JIF6vB
+System Center;Microsoft_System_Center_Optimizing_Service_Manager;PDF;http://ligman.me/1M00Lzu
+System Center;Microsoft_System_Center_Troubleshooting_Configuration_Manager;PDF;http://ligman.me/1M00v3u
 System Center;What’s_new_in_System_Center_2016_White_Paper;PDF;http://ligman.me/2t3NaDl
 Virtualization;Understanding_Microsoft_Virtualizaton_R2_Solutions;PDF;http://ligman.me/1eql6Ts
-Windows Client;Deploying_Windows_10_Automating_deployment_by_using_System_Center_Configuration_Manager;PDF ;http://ligman.me/2sE9XX1
+Windows Client;Deploying_Windows_10_Automating_deployment_by_using_System_Center_Configuration_Manager;PDF;http://ligman.me/2sE9XX1
 Windows Client;Deploying_Windows_10_Automating_deployment_by_using_System_Center_Configuration_Manager_–_Mobile;PDF;http://ligman.me/2twLeqF
 Windows Client;Getting_the_most_out_of_Microsoft_Edge;DOC;http://ligman.me/2sF5tQ8
-Windows Client;Introducing_Windows_10_for_IT_Professionals;PDF ;http://ligman.me/2t2WmYx
-Windows Client;Introducing_Windows_10_for_IT_Professionals_Preview_Edition;PDF ;http://ligman.me/1Uiyx8Q
-Windows Client;Introducing_Windows_8.1_for_IT_Professionals;PDF ;http://ligman.me/1JDrMeG
-Windows Client;Introducing_Windows_8_An_Overview_for_IT_Professionals;PDF ;http://ligman.me/1GVGQgI
+Windows Client;Introducing_Windows_10_for_IT_Professionals;PDF;http://ligman.me/2t2WmYx
+Windows Client;Introducing_Windows_10_for_IT_Professionals_Preview_Edition;PDF;http://ligman.me/1Uiyx8Q
+Windows Client;Introducing_Windows_8.1_for_IT_Professionals;PDF;http://ligman.me/1JDrMeG
+Windows Client;Introducing_Windows_8_An_Overview_for_IT_Professionals;PDF;http://ligman.me/1GVGQgI
 Windows Client;Licensing_Windows_desktop_operating_system_for_use_with_virtual_machines;PDF;http://ligman.me/2txIfxW
 Windows Client;Protecting_your_data_with_Windows_10_BitLocker;DOC;http://ligman.me/2sVHDUg
 Windows Client;RAP_as_a_Service_for_Windows_Desktop;PDF;http://ligman.me/2u2R83b
 Windows Client;Shortcut_Keys_for_Windows_10;DOC;http://ligman.me/29ErxWs
 Windows Client;Use_Reset_to_restore_your_Windows_10_PC;DOC;http://ligman.me/29yWAAO
 Windows Client;Volume_Licensing_Reference_Guide_Windows_10_Desktop_Operating_System;PDF;http://ligman.me/2sFzkaR
-Windows Client;Windows_10_IT_Pro_Essentials_Support_Secrets;PDF ;http://ligman.me/2u12Nj7
-Windows Client;Windows_10_IT_Pro_Essentials_Support_Secrets;PDF ;http://ligman.me/2uFUOG1
-Windows Client;Windows_10_IT_Pro_Essentials_Top_10_Tools;PDF ;http://ligman.me/2t2cYjp
+Windows Client;Windows_10_IT_Pro_Essentials_Support_Secrets;PDF;http://ligman.me/2u12Nj7
+Windows Client;Windows_10_IT_Pro_Essentials_Support_Secrets;PDF;http://ligman.me/2uFUOG1
+Windows Client;Windows_10_IT_Pro_Essentials_Top_10_Tools;PDF;http://ligman.me/2t2cYjp
 Windows Client;Windows_10_IT_Pro_Essentials_Top_10_Tools_–_Mobile;PDF;http://ligman.me/2u15CAR
 Windows Client;Work_Smart_Windows_8_Shortcut_Keys;PDF;http://ligman.me/1sfkqBW
 Windows Server;Automating_Windows_Server_2016_configuration_with_PowerShell_and_DSC;DOC;http://ligman.me/2txOv8Z
-Windows Server;Introducing_Windows_Server_2008_R2;PDF ;http://ligman.me/1FYVYcy
-Windows Server;Introducing_Windows_Server_2012;PDF ;http://ligman.me/1M0681D
-Windows Server;Introducing_Windows_Server_2012_R2;PDF ;http://ligman.me/1NCxHi5
+Windows Server;Introducing_Windows_Server_2008_R2;PDF;http://ligman.me/1FYVYcy
+Windows Server;Introducing_Windows_Server_2012;PDF;http://ligman.me/1M0681D
+Windows Server;Introducing_Windows_Server_2012_R2;PDF;http://ligman.me/1NCxHi5
 Windows Server;Introducing_Windows_Server_2016;PDF;http://ligman.me/2uFKRZd
 Windows Server;Introducing_Windows_Server_2016_–_Mobile;PDF;http://ligman.me/2tDMJl0
 Windows Server;Introducing_Windows_Server_2016_Technical_Preview;PDF;http://ligman.me/2uFDelL
 Windows Server;Introducing_Windows_Server_2016_Technical_Preview_–_Mobile;PDF;http://ligman.me/2twmtKY
-Windows Server;Introducing_Windows_Server®_2012_R2_Preview_Release;PDF ;http://ligman.me/1f9k8fe
+Windows Server;Introducing_Windows_Server®_2012_R2_Preview_Release;PDF;http://ligman.me/1f9k8fe
 Windows Server;Offline_Assessment_for_Active_Directory;PDF;http://ligman.me/2v1cDyG
 Windows Server;RAP_as_a_Service_for_Active_Directory;PDF;http://ligman.me/2txRQFd
 Windows Server;RAP_as_a_Service_for_Failover_Cluster;PDF;http://ligman.me/2v1zdYa
